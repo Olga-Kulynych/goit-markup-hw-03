@@ -42,7 +42,7 @@ a {
   margin: 0 auto;
 }
 
-.sr-only: {
+.sr-only {
   position: absolute;
   white-space: nowrap;
   width: 1px;
